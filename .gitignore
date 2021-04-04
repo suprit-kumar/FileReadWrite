@@ -1,0 +1,8 @@
+.idea
+*.log
+*.pyc
+*.env
+workspace.xml
+file_read_write_app/__pycache__/*
+LargeFileReadWrite/__pycache__/*
+__pycache__/*
